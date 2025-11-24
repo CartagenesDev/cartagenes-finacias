@@ -1,0 +1,5 @@
+{
+  "name": "Cartagenes Financas News",
+  "description": "A financial news portal featuring real-time stock tickers, market analysis powered by Gemini, and financial calculators.",
+  "requestFramePermissions": []
+}
